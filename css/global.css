@@ -1,0 +1,43 @@
+/*作者(Author): 一木梦林(Dream lam)    Website: www.dreamlam.com    E-mail: yimumenglin@163.com    QQ: 348599167*/
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dd, input, textarea, button, th, td {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font: 12px/normal Arial, Helvetica, sans-serif;
+	color: #222;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+h1 {
+	font: bold 18px/normal Arial, Helvetica, sans-serif;
+}
+h2 {
+	font: bold 16px/normal Arial, Helvetica, sans-serif;
+}
+h3, h4, h5, h6 {
+	font: bold 14px/normal Arial, Helvetica, sans-serif;
+}
+ol, ul {
+	list-style: none;
+}
+a {
+	color: blue;
+	background: none;
+	text-decoration: none;
+}
+a:hover, a:active {
+	text-decoration: underline;
+}
+a img {
+	border: none;
+}
+cite {
+	font-style: normal;
+}
+.clear {
+	clear: both;
+}
+/****************************global_end****************************/
